@@ -1,0 +1,31 @@
+
+Array
+(
+    [payment_id] => 224450
+    [parent_payment_id] => pay_bdf0e51681ac4d7e4c0b4bab37b86b3b
+    [invoice_id] => 
+    [payment_status] => finished
+    [pay_address] => 0xC8A03F9190347deF3F4109AdE4155731b288D4dD
+    [payin_extra_id] => 
+    [price_amount] => 1000
+    [price_currency] => USDTBSC
+    [pay_amount] => 1000
+    [actually_paid] => 10
+    [actually_paid_at_fiat] => 0
+    [pay_currency] => USDTBSC
+    [order_id] => FX178894362243AF6574
+    [order_description] => Deposit (Online)
+    [purchase_id] => pay_bdf0e51681ac4d7e4c0b4bab37b86b3b
+    [outcome_amount] => 1000
+    [outcome_currency] => USDTBSC
+    [payment_extra_ids] => 
+    [fee] => Array
+        (
+            [currency] => USDTBSC
+            [depositFee] => 0
+            [withdrawalFee] => 0
+            [serviceFee] => 0
+        )
+
+)
+
